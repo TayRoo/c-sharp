@@ -1,0 +1,6 @@
+CAT
+DOG
+BAT
+RAT
+COW
+FLY

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{9DD9692D-DAD7-4FDD-BA85-A6B984C921D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DialNumber/Program.cs">
+    <Files>
+      <File FileName="DialNumber/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DialNumber" expanded="True" selected="True">
+            <Node name="DialNumber" expanded="True" />
+            <Node name="DialNumberTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DialNumber" expanded="True" selected="True">
+            <Node name="DialNumberTest" expanded="True">
+              <Node name="DialNumberTest" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DialNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/imacqz/Projects/DialNumber/DialNumber/GetAnimal.cs" relfile="DialNumber/GetAnimal.cs" line="38" column="68" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
